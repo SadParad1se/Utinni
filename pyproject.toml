@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "utinni-fork"
-version = "0.5.1"
+version = "0.5.2"
 description = "Async client library for Empire's RESTful API"
 authors = ["Marcello Salvati <byt3bl33d3r@pm.me>"]
 readme = "README.md"
@@ -15,7 +15,7 @@ classifiers = [
 ]
 
 packages = [
-    { include = "utinni"}
+    {include = "utinni"}
 ]
 
 [tool.poetry.dependencies]
